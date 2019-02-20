@@ -1,0 +1,27 @@
+c:\users\user\documents\visual studio 2017\Projects\server\server\bin\server.dll.config
+c:\users\user\documents\visual studio 2017\Projects\server\server\bin\server.dll
+c:\users\user\documents\visual studio 2017\Projects\server\server\bin\server.pdb
+c:\users\user\documents\visual studio 2017\Projects\server\server\obj\Debug\server.csproj.CoreCompileInputs.cache
+c:\users\user\documents\visual studio 2017\Projects\server\server\obj\Debug\server.dll
+c:\users\user\documents\visual studio 2017\Projects\server\server\obj\Debug\server.pdb
+C:\Users\User\Desktop\файлообменник\server\server\bin\server.dll.config
+C:\Users\User\Desktop\файлообменник\server\server\bin\server.dll
+C:\Users\User\Desktop\файлообменник\server\server\bin\server.pdb
+C:\Users\User\Desktop\файлообменник\server\server\obj\Debug\server.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\файлообменник\server\server\obj\Debug\server.dll
+C:\Users\User\Desktop\файлообменник\server\server\obj\Debug\server.pdb
+C:\Users\User\Desktop\файлообменник\server\server\obj\Debug\server.csprojAssemblyReference.cache
+C:\Users\User\Desktop\всё программы c#\файлообменник\server\server\bin\server.dll.config
+C:\Users\User\Desktop\всё программы c#\файлообменник\server\server\bin\server.dll
+C:\Users\User\Desktop\всё программы c#\файлообменник\server\server\bin\server.pdb
+C:\Users\User\Desktop\всё программы c#\файлообменник\server\server\obj\Debug\server.csprojAssemblyReference.cache
+C:\Users\User\Desktop\всё программы c#\файлообменник\server\server\obj\Debug\server.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\всё программы c#\файлообменник\server\server\obj\Debug\server.dll
+C:\Users\User\Desktop\всё программы c#\файлообменник\server\server\obj\Debug\server.pdb
+C:\Users\User\Desktop\server\server\bin\server.dll.config
+C:\Users\User\Desktop\server\server\bin\server.dll
+C:\Users\User\Desktop\server\server\bin\server.pdb
+C:\Users\User\Desktop\server\server\obj\Debug\server.csprojAssemblyReference.cache
+C:\Users\User\Desktop\server\server\obj\Debug\server.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\server\server\obj\Debug\server.dll
+C:\Users\User\Desktop\server\server\obj\Debug\server.pdb
